@@ -1,0 +1,5 @@
+{
+    "secret": "5643534hgfddghdfhfg54643563456345hfghdfgh",
+    "mongodb": "mongodb://localhost:27017/demo",
+    "jwt_expiretime": 36000
+  }
