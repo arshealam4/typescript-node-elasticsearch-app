@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+#default.json file
+config/default.json
+.idea
+.idea/*
+package-lock.json
+yarn.lock
+.DS_Store
