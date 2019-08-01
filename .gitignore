@@ -4,6 +4,7 @@ node_modules/
 #default.json file
 .idea
 .idea/*
+/dist
 package-lock.json
 yarn.lock
 .DS_Store
